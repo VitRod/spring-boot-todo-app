@@ -27,5 +27,5 @@ public class SpringBootTodoApplication implements CommandLineRunner {
 		Collection<Todo> todos = Arrays.asList(new Todo("Read a Book", "Yes"), new Todo("Learn Skating", "No"), new Todo("Go for a Run", "No"), new Todo("Prepare Supper", "Yes"));
 		todos.forEach(todoRepository::save);
 
-	}
+	}                  
 }
