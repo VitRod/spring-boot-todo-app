@@ -1,0 +1,11 @@
+/target/classes/application.properties
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/target/classes/com/vit/todo/SpringBootTodoApplication.class
+/target/classes/com/vit/todo/domain/Todo.class
+/target/classes/com/vit/todo/controllers/TodoController.class
+/target/classes/com/vit/todo/repository/TodoRepository.class
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
